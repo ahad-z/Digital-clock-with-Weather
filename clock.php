@@ -5,7 +5,7 @@ $data = $respponse['consolidated_weather'];
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Clock</title>
+		<title>Clock With Awesome Animation plus Real time Weather</title>
 		<link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.min.css" />
 		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="style.css">
